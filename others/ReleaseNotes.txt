@@ -1,0 +1,23 @@
+
+#################################################
+Author: Ashwin Sinha
+Director: Yash Shah
+#################################################
+
+Please Note the following
+
+I used SEMANTIC UI plugin
+This plugin is extremely light in weight
+
+Remember anything u see in the layout can be customized, YES anything can be customized 
+down it each alphabet, u want me to place tht shit there, this shit by 0.0001 cm
+there i can do it, even colours can be customized... all you do is ask.
+
+Now another fact regarding tab contents... it was looking all messed up in real world with
+rohit sharma fucking around with other odds nd shit, so i kept them in a table.
+
+Last but not the least, hurry up!!!!
+
+
+##########################   END OF PAGE  ########################  
+
