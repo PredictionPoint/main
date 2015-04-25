@@ -1,0 +1,21 @@
+#searchBar{
+    margin-top: 0.5rem;
+}
+
+.tab{
+    min-height: 35rem;
+}
+.ui.segment.home {
+    padding-top: 0rem !important;
+}
+
+#hidden{
+    /*just a css trick for super fast alignment */
+    visibility: hidden;
+}
+.tiles{
+    margin-right: 3rem;
+}
+#footer {
+    margin-top: 2rem !important;
+}
