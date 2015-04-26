@@ -1,5 +1,5 @@
 <?php
-//our php code for next phase
+ session_start();
 ?>
 <html>
 <head>
@@ -23,7 +23,7 @@
     </div>
         <div class="right floated three wide column">
             <?php
-              session_start();
+             
               if (!isset($_SESSION['user_id'])) {
             ?>
              <div class="ui buttons">
