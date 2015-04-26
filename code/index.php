@@ -22,10 +22,24 @@
       </div>
     </div>
         <div class="right floated three wide column">
-      <div class="ui segment">
-        Login or Sign Up
-      </div>
-        </div>
+            <?php
+              session_start();
+              if (!isset($_SESSION['user_id'])) {
+            ?>
+             <div class="ui buttons">
+               <a href=login.php> <div class="ui button"> Login</div></a>
+               <div class="or"></div>
+               <a href=signup.php> <div class="ui positive button"> Sign Up</div></a>
+             </div> 
+            <?php
+                }
+                else{
+                echo('<h3 class="login">Hi ' . $_SESSION['username'] . ',</h3>');
+                echo('<a href=logout.php> Logout </a>');
+               }
+            ?>
+       </div>
+ 
       <div id="searchBar" class="left floated six wide column">
       
      <div class="ui fluid action input">
