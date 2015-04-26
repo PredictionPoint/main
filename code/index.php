@@ -76,142 +76,8 @@
             <a class="item" data-tab="fifth">TENNIS</a>
         </div>
         <div class="ui bottom attached active tab segment" data-tab="first">
-        <div class="ui list">
-            <div class="item">
-                <div class="header">CRICKET: <i>(IN PLAY)</i></div>
-                <table class="ui table">
-                    <thead>
-                    <tr>
-                      <th>Match Prediction</th>
-                      <th>Next Batsmen Out</th>
-                      <th>MI Innings Score</th>
-                    </tr>
-                  </thead>
-                <tbody>
-                  <tr>
-                    <td>MI: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    CSK: <div class="ui tiny button">
-                        7/3
-                    </div>
-                    </td>
-                    <td>Simmon: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    Rohit: <div class="ui tiny button">
-                    4/7
-                    </td>
-                    <td>170+: <div class="ui tiny button">
-                    7/6
-                    </div>
-                    170-: <div class="ui tiny button">
-                    7/5
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-                </div>
-                <div class="item">
-                    <div class="header">FOOTBALL: <i>(IN PLAY)</i></div>
-                    <table class="ui table">
-                    <thead>
-                    <tr>
-                      <th>Match Prediction</th>
-                      <th>Next Goal  in 5 mins</th>
-                      <th>Next goal scorer</th>
-                    </tr>
-                  </thead>
-                <tbody>
-                  <tr>
-                    <td>LVR: <div class="ui tiny button">
-                    4/5
-                    </div>
-                    MU: <div class="ui tiny button">
-                    4/6
-                    </div>
-                    </td>
-                    <td>Yes: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    No: <div class="ui tiny button">
-                    4/7
-                    </td>
-                    <td><a>--click for details--</a></td>
-                  </tr>
-                </tbody>
-              </table>
-                </div>
-                <div class="item">
-                    <div class="header">CRICKET:</div>
-                    <table class="ui table">
-                    <thead>
-                    <tr>
-                      <th>Match Prediction</th>
-                      <th>Next Batsmen Out</th>
-                      <th>MI Innings Score</th>
-                    </tr>
-                  </thead>
-                <tbody>
-                  <tr>
-                    <td>MI: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    CSK: <div class="ui tiny button">
-                        7/3
-                    </div>
-                    </td>
-                    <td>Simmon: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    Rohit: <div class="ui tiny button">
-                    4/7
-                    </td>
-                    <td>170+: <div class="ui tiny button">
-                    7/6
-                    </div>
-                    170-: <div class="ui tiny button">
-                    7/5
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-                </div>
-                <div class="item">
-                    <div class="header">TENNIS:</div>
-                    <table class="ui table">
-                    <thead>
-                    <tr>
-                      <th>Match Prediction</th>
-                      <th>Next to win</th>
-                      <th>Will there be deuce in next shit</th>
-                    </tr>
-                  </thead>
-                <tbody>
-                  <tr>
-                    <td>Rodger: <div class="ui tiny button">
-                    4/5
-                    </div>
-                    Murray: <div class="ui tiny button">
-                    4/6
-                    </div>
-                    </td>
-                    <td>Rodger: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    Murray: <div class="ui tiny button">
-                    4/7
-                    </td>
-                    <td>Yes: <div class="ui tiny button">
-                    3/7
-                    </div>
-                    No: <div class="ui tiny button">
-                    4/7
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-                </div>
+        <div class="ui unstackable list" id="hotTab">
+            
             </div>
         </div>
         <div class="ui bottom attached tab segment tab" data-tab="second">
@@ -319,6 +185,7 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
 <!--<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.min.js"></script>-->
 <script src="dist/semantic.min.js"></script>
+<script src="js/moment.js"></script>
 <script src="js/script.js"></script>
 </body>
 </html>

@@ -1,5 +1,6 @@
 
 #################################################
+Release Notes: Homepage Layout
 Author: Ashwin Sinha
 Director: Yash Shah
 #################################################
@@ -20,4 +21,3 @@ Last but not the least, hurry up!!!!
 
 
 ##########################   END OF PAGE  ########################  
-

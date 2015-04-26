@@ -3,8 +3,9 @@
 }
 
 .tab{
-    min-height: 35rem;
+    min-height: 35rem;  
 }
+
 .ui.segment.home {
     padding-top: 0rem !important;
 }

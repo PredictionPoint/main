@@ -1,0 +1,103 @@
+{
+    "cricket": {
+        "schedule": {
+            "0": {
+                "home": "DD",
+                "away": "RCB",
+                "date": "26",
+                "month": "04",
+                "year": "2015",
+                "hour": "20",
+                "minute": "00",
+                "oddsHome": "0.11",
+                "oddsAway": "9.22",
+                "nextManOut": {"name1":"Rohit Sharma", "odds1":1.21, "name2":"Simon", "odds2": 2.33},
+                "nextWicketMethod": {"bowled":1.32, "catched":2.37, "LBW": 1.31},
+                "nextOverRuns": {"under2":1.32, "over2":1.32, "under4":1.31}
+                
+            },
+           "1": {
+                "home": "KXIP",
+                "away": "SRH",
+                "date": "27",
+                "month": "04",
+                "year": "2015",
+                "hour": "20",
+                "minute": "00",
+                "oddsHome": "0.11",
+                "oddsAway": "9.22",
+                "nextManOut": {"name1":"Rohit Sharma", "odds1":1.21, "name2":"Simon", "odds2": 2.33},
+                "nextWicketMethod": {"bowled":1.32, "catched":2.32, "LBW": 1.31},
+                "nextOverRuns": {"under2":1.32, "over2":1.32, "under4":1.35}
+                
+            }
+        }
+    },
+    "football": {
+        "schedule": {
+            "0": {
+                "home": "Arsenal",
+                "away": "Chelsea",
+                "date": "26",
+                "month": "04",
+                "year": "2015",
+                "hour": "20",
+                "minute": "30",
+                "oddsHome": "0.11",
+                "oddsAway": "1.22",
+                "goalFivMin": {"yes":1.11,"no": 2.33},
+                "penaltyFivMin": {"yes":1.32, "no":2.32},
+                "firScoreNineMin": {"home":1.32, "nogoal":1.32, "away":1.31}
+                
+            },
+           "1": {
+                "home": "Swansea City",
+                "away": "Stoke City",
+                "date": "02",
+                "month": "05",
+                "year": "2015",
+                "hour": "10",
+                "minute": "30",
+                "oddsHome": "0.11",
+                "oddsAway": "2.22",
+                "goalFivMin": {"yes":1.11,"no": 2.33},
+                "penaltyFivMin": {"yes":1.32, "no":2.32},
+                "firScoreNineMin": {"home":1.32, "nogoal":1.32, "away":1.31}
+                
+            }
+        }
+    },
+    "tennis": {
+        "schedule": {
+            "0": {
+                "home": "Murray",
+                "away": "Rodger",
+                "date": "12",
+                "month": "09",
+                "year": "2016",
+                "hour": "23",
+                "minute": "08",
+                "oddsHome": "0.11",
+                "oddsAway": "9.22",
+                "nextToWin": {"home":1.11,"away": 2.33},
+                "deuceInNext": {"yes":1.32, "no":2.32},
+                "aceInNext": {"yes":1.32, "no":1.32}
+                
+            },
+           "1": {
+                "home": "Saina",
+                "away": "Williams",
+                "date": "26",
+                "month": "04",
+                "year": "2015",
+                "hour": "15",
+                "minute": "08",
+                "oddsHome": "0.11",
+                "oddsAway": "9.22",
+                "nextToWin": {"home":1.11,"away": 2.33},
+                "deuceInNext": {"yes":1.32, "no":2.32},
+                "aceInNext": {"yes":1.32, "no":1.32}
+            }
+        }
+    }
+}
